@@ -1,14 +1,10 @@
-.HereO {
-  font-size: 150px;
-}
+/* navbar */
 
-/*test*/
-
-/*login*/
 .bg-white {
   background-color: #ffffff !important;
 }
 
+/* กรอบของปุ่ม dropdown */
 .dropdown-toggle {
   position: absolute;
   width: 160px;
@@ -23,7 +19,7 @@
 }
 
 /*ภาษาของหน้า login */
-.dropdow-language {
+.dropdown-text {
   position: absolute;
   width: 133px;
   height: 26px;
@@ -39,6 +35,16 @@
   color: #58595B;
 }
 
+/* แต่ง icon email */
+.icon-email {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 326px;
+  top: 22px;
+}
+
+/* แต่ง Need help! */
 .help {
   position: absolute;
   width: 99px;
@@ -55,6 +61,7 @@
   color: #58595B;
 }
 
+/* แต่ง cs@kmitl.ac.th */
 .cskmitl {
   position: absolute;
   width: 126px;
@@ -71,6 +78,7 @@
   color: #58595B;
 }
 
+/* แต่ง login status  */
 .youare {
   position: absolute;
   width: 244px;
@@ -87,6 +95,18 @@
   color: #58595B;
 }
 
+/* แต่ง drop down */
+.dropdown-menu {
+  left: 130px;
+  top: 50px;
+}
+
+/* end navbar */
+
+
+/* main body */
+
+/* กรอบสีส้มคลุมรูปพื้นหลัง */
 #rec {
   position: absolute;
   width: 1540px;
@@ -98,7 +118,8 @@
   opacity: 0.55;
 }
 
- .CEO-5035 {
+/* พื้นหลัง */
+.background-login {
   position: absolute;
   width: 1540px;
   height: 964px;
@@ -108,7 +129,8 @@
   /* background: url(img/CEO_5035.jpg); */
 }
 
-.let {
+/* let's get started now! */
+.label {
   position: absolute;
   width: 500px;
   height: 56px;
@@ -124,183 +146,8 @@
   color: #FFFFFF;
 }
 
-.footer {
-  position: absolute;
-  width: 1540px;
-  height: 152px;
-  left: 0px;
-  display: block;
-}
 
-.com-logo-footer {
-  position: absolute;
-  width: 302px;
-  height: 111px;
-  left: 155px;
-  top: 10px;
-
-  /* background: url(com_log.png); */
-}
-
-.contact {
-  position: absolute;
-  width: 145px;
-  height: 28px;
-  left: 577px;
-  top: 15px;
-
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  line-height: 28px;
-
-  color: #58595B;
-}
-
-.department {
-  position: absolute;
-  width: 336px;
-  height: 48px;
-  left: 577px;
-  top: 65px;
-
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 16px;
-
-  color: #58595B;
-}
-
-.icon-email {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 326px;
-  top: 22px;
-}
-
- .icon-phone {
-  position: absolute;
-  width: 18px;
-  height: 18px;
-  left: 577px;
-  top: 120px;
-
-  /* background: url(phone.png); */
-}
-
-.phone {
-  position: absolute;
-  width: 129px;
-  height: 16px;
-  left: 602px;
-  top: 122px;
-
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 16px;
-
-  color: #58595B;
-}
-
- .icon-email-footer {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 742px;
-  top: 117px;
-
-  /* background: url(email.svg); */
-}
-
-.email-footer {
-  position: absolute;
-  width: 142px;
-  height: 16px;
-  left: 769px;
-  top: 122px;
-
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 16px;
-
-  color: #58595B;
-}
-
-.get-social {
-  position: absolute;
-  width: 134px;
-  height: 28px;
-  left: 1058px;
-  top: 15px;
-
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  line-height: 28px;
-
-  color: #58595B;
-}
-
- .icon-face{
-  position: absolute;
-  width: 40px;
-  height: 39px;
-  left: 1058px;
-  top: 65px;
-
-  /* background: url(facebook.png); */
-}
-
-.icon-twitter{
-  position: absolute;
-  width: 38px;
-  height: 38px;
-  left: 1118px;
-  top: 65px;
-
-  /* background: url(twitter.png); */
-}
-
-#rec-twitter{
-  position: absolute;
-  width: 40px;
-  height: 38px;
-  left: 1118px;
-  top: 65px;
-
-  background: #55ACEE;
-  border-radius: 5px;
-}
-
-.icon-ig {
-  position: absolute;
-  width: 39px;
-  height: 39px;
-  left: 1178px;
-  top: 65px;
-
-  /* background: url(instagram.png); */
-}
-
-.icon-youtube{
-  position: absolute;
-  width: 28px;
-  height: 28px;
-  left: 1238px;
-  top: 70px;
-
-  /* background: url(youtube.png); */
-}
-
+/* box main login */
 .rec-login {
   position: absolute;
   width: 626px;
@@ -314,7 +161,8 @@
   border-radius: 15px;
 }
 
-.eclipse{
+/* วงกลมรอบ logo */
+.ellipse-cslogo-login{
   position: absolute;
   width: 167px;
   height: 167px;
@@ -326,7 +174,8 @@
   border-radius: 80px;
 }
 
- .cs-logo {
+/* cs logo  */
+.cs-logo-login {
   position: absolute;
   width: 172px;
   height: 172px;
@@ -336,7 +185,8 @@
   /* background: url(cs-logo.png); */
 }
 
- .google-authen {
+/* google-authen */
+.google-authen {
   position: absolute;
   width: 307px;
   height: 67px;
@@ -346,10 +196,7 @@
   /* background: url(google-authen.png); */
 }
 
-.bg-red {
-  background-color: red;
-}
-
+/* เส้นด้านซ้าย */
 .line-left {
   position: absolute;
   width: 100px;
@@ -360,6 +207,7 @@
   border: 1px solid #C1C1C1;
 }
 
+/* or */
 .or {
   position: absolute;
   width: 22px;
@@ -376,6 +224,7 @@
   color: rgba(142, 142, 142, 0.8);
 }
 
+/* เส้นด้านขวา */
 .line-right {
   position: absolute;
   width: 100px;
@@ -386,6 +235,7 @@
   border: 1px solid #C1C1C1;
 }
 
+/* box login */
 .username-box {
   position: absolute;
   width: 290px;
@@ -402,6 +252,7 @@
   border-radius: 5px;
 }
 
+/* box password */
 .password-box {
   position: absolute;
   width: 290px;
@@ -418,6 +269,7 @@
   border-radius: 5px;
 }
 
+/* ปุ่ม .check remember */
 .check-remember {
   position: absolute;
   width: 134px;
@@ -434,7 +286,8 @@
   color: #58595B;
 }
 
-.remember {
+/* Remember username */
+.remember-text {
   position: absolute;
   width: 134px;
   height: 16px;
@@ -450,7 +303,8 @@
   color: #58595B;
 }
 
-.submit {
+/* button sign in */
+.sign-in {
   position: absolute;
   width: 120px;
   height: 50px;
@@ -471,43 +325,217 @@
   line-height: 28px;
 }
 
-.forget {
+/* Forget Password ? */
+.forget-text {
   position: absolute;
-width: 117px;
-height: 16px;
-left: 712px;
-top: 758px;
+  width: 117px;
+  height: 16px;
+  left: 712px;
+  top: 758px;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
 
-color: #DE5A10;
+  color: #DE5A10;
 }
 
-.dropdown-menu {
-  left: 130px;
-  top: 50px;
-}
 
-/* .navbar {
-  width: 1540px;
-  background: red;
-} */
-
-/* @media screen and (max-width: 480px) {
-  .navbar{
-    width: 400px;
-    background: green;
-  }
-} */
-
+/* อย่าสนใจมัน */
 .wrapper {
    display: block;
    min-height: 100%; /* real browsers */
    height: auto !important; /* real browsers */
    height: 100%; /* IE6 bug */
    margin-bottom: 381px; /* กำหนด margin-bottom ให้ติดลบเท่ากับความสูงของ footer */
+}
+
+/* end main body */
+
+
+/* footer */
+
+/* custom footer */
+.footer {
+  position: absolute;
+  width: 1540px;
+  height: 152px;
+  left: 0px;
+  display: block;
+}
+
+/* cs logo footer  */
+.cs-logo-footer {
+  position: absolute;
+  width: 302px;
+  height: 111px;
+  left: 155px;
+  top: 10px;
+
+  /* background: url(com_log.png); */
+}
+
+/* CONTACT US */
+.contact-text-footer {
+  position: absolute;
+  width: 145px;
+  height: 28px;
+  left: 577px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+/* address footer */
+.address-text-footer {
+  position: absolute;
+  width: 336px;
+  height: 48px;
+  left: 577px;
+  top: 65px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+/* icon phone footer */
+ .icon-phone-footer {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 577px;
+  top: 120px;
+
+  /* background: url(phone.png); */
+}
+
+/* phone number */
+.phone-number-text {
+  position: absolute;
+  width: 129px;
+  height: 16px;
+  left: 602px;
+  top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+/* icon email footer */
+ .icon-email-footer {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 742px;
+  top: 117px;
+
+  /* background: url(email.svg); */
+}
+
+/* email footer */
+.email-text-footer {
+  position: absolute;
+  width: 142px;
+  height: 16px;
+  left: 769px;
+  top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+/* get social footer */
+.get-social-text-footer {
+  position: absolute;
+  width: 134px;
+  height: 28px;
+  left: 1058px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+/* icon facebook footer */
+ .icon-facebook-footer{
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  left: 1058px;
+  top: 65px;
+
+  /* background: url(facebook.png); */
+}
+
+/* icon twitter footer */
+.icon-twitter-footer{
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 1118px;
+  top: 65px;
+
+  /* background: url(twitter.png); */
+}
+
+/* กรอบคลุม icon twiiter */
+#rec-twitter-footer{
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  left: 1118px;
+  top: 65px;
+
+  background: #55ACEE;
+  border-radius: 5px;
+}
+
+/* icon ig */
+.icon-ig-footer {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  left: 1178px;
+  top: 65px;
+
+  /* background: url(instagram.png); */
+}
+
+/* icon youtube */
+.icon-youtube-footer{
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 1238px;
+  top: 70px;
+
+  /* background: url(youtube.png); */
 }
