@@ -1,0 +1,79 @@
+.text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+.text-search-grade {
+  position: absolute;
+  width: 76px;
+  height: 28px;
+  left: 120px;
+  top: 502px;
+}
+
+.search-grade {
+  position: absolute;
+  width: 600px;
+  height: 40px;
+  left: 230px;
+  top: 495px;
+
+  background: #FFFFFF;
+  border: 0.5px solid #000000;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  padding: 12px 20px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 26px;
+
+  color: #58595B;
+}
+
+.rec-icon-search-grade {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 850px;
+  top: 495px;
+
+  background: #DADADA;
+  border: 0.5px solid #58595B;
+  box-sizing: border-box;
+  box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.icon-search-grade {
+  position: absolute;
+  left: 0%;
+  right: 42.22%;
+  top: 0px;
+  bottom: 66.22%;
+
+  background: #DADADA;
+}
+
+.text-sort-grade {
+  position: absolute;
+  width: 78px;
+  height: 28px;
+  left: 1050px;
+  top: 500px;
+}
+
+.footer-in-course-grade {
+  position: absolute;
+  width: 1540px;
+  height: 152px;
+  left: 0px;
+  display: block;
+  top: 1750px;
+}

@@ -1,0 +1,993 @@
+.feedback-description {
+  position: absolute;
+  width: 349px;
+  height: 84px;
+  left: 122px;
+  top: 197px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(88, 89, 91, 0.6);
+}
+
+.navigation-description {
+  position: absolute;
+  width: 191px;
+  height: 140px;
+  left: 628.36px;
+  top: 197px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(88, 89, 91, 0.6);
+}
+
+.help-description {
+  position: absolute;
+  width: 381px;
+  height: 84px;
+  left: 1105px;
+  top: 197px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(88, 89, 91, 0.6);
+}
+
+.bg-black {
+  background: black;
+}
+
+/* home */
+
+.dehaze {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 55px;
+  top: 7px;
+}
+
+.noti {
+  position: absolute;
+  left: 1350px;
+  right: 18.39%;
+  top: 8px;
+  bottom: 21.88%;
+}
+
+a.linkhover:hover {
+  position: absolute;
+  width: 301px;
+  height: 50px;
+  left: 30px;
+  top: 171px;
+
+  background: rgba(248, 148, 30, 0.3);
+}
+
+.rec-home {
+  position: absolute;
+  width: 1540px;
+  height: 538px;
+  left: 0px;
+  top: 64px;
+
+  background: #0D151E;
+}
+
+.sensei-home {
+  position: absolute;
+  width: 1540px;
+  height: 558px;
+  left: 0px;
+  top: 0px;
+}
+
+.rec-main-home {
+  position: absolute;
+  width: 1540px;
+  height: 960px;
+  left: 0px;
+  top: 602px;
+
+  background: #FFFFFF;
+}
+
+.rec-course-categories {
+  position: absolute;
+  width: 780px;
+  height: 839px;
+  left: 120px;
+  top: 662px;
+
+  background: #FFFFFF;
+  border: 0.5px solid #58595B;
+  box-sizing: border-box;
+  box-shadow: 4px 4px 4px #C1C1C1;
+  border-radius: 5px;
+}
+
+.course-categories-topic {
+  position: absolute;
+  width: 301px;
+  height: 42px;
+  left: 60px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #58595B;
+
+  border-radius: 5px;
+}
+
+.search-course-categories {
+  position: absolute;
+  width: 203.19px;
+  height: 40px;
+  left: 468px;
+  top: 15px;
+
+  background: #FFFFFF;
+  border: 0.5px solid #000000;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  padding: 12px 20px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 26px;
+
+  color: #58595B;
+}
+
+.rec-icon-search {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 680px;
+  top: 15px;
+
+  background: #DADADA;
+  border: 0.5px solid #58595B;
+  box-sizing: border-box;
+  box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.icon-search {
+  position: absolute;
+  left: 0%;
+  right: 42.22%;
+  top: 0px;
+  bottom: 66.22%;
+
+  background: #DADADA;
+}
+
+.rec-course-categories-list {
+    background: #FFFFFF;
+    border: 0.5px solid #58595B;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.rec-course-1 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 60px;
+  top: 100px;
+}
+
+.rec-course-2 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 420px;
+  top: 100px;
+}
+
+.rec-course-3 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 60px;
+  top: 460px;
+}
+
+.img-course {
+  position: absolute;
+  width: 250px;
+  height: 130px;
+  left: 25px;
+  top: 20px;
+  background: #F3F3F3;
+  border-radius: 5px;
+}
+
+.name-course-categories-list {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  left: 40px;
+  top: 160px;
+
+
+  color: #F8941E;
+
+  border-radius: 5px;
+}
+
+.name-course-categories-1 {
+  position: absolute;
+  width: 216px;
+  height: 28px;
+
+}
+
+.name-course-categories-2 {
+  position: absolute;
+  width: 216px;
+  height: 28px;
+}
+
+.name-course-categories-3 {
+  position: absolute;
+  width: 216px;
+  height: 28px;
+}
+
+.detail-course-categories-list{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  left: 45px;
+  top: 190px;
+
+  color: #000000;
+
+  border-radius: 5px;
+}
+
+.detail-course-categories-list-1 {
+  position: absolute;
+  width: 250px;
+  height: 69px;
+}
+
+.detail-course-categories-list-2 {
+  position: absolute;
+  width: 250px;
+  height: 69px;
+}
+
+.detail-course-categories-list-3 {
+  position: absolute;
+  width: 250px;
+  height: 69px;
+}
+
+.button-access-course {
+  position: absolute;
+  width: 160px;
+  height: 36px;
+  left: 70px;
+  top: 240px;
+
+  background: #F8941E;
+  border-radius: 5px;
+}
+
+.name-button-access-course {
+  position: absolute;
+  width: 92px;
+  height: 21px;
+  left: 35px;
+  top: 10px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+/* identical to box height */
+  color: #FFFFFF;
+  border-radius: 5px;
+}
+
+
+.rec-month-calendar-home {
+  position: absolute;
+  width: 360px;
+  height: 153px;
+  left: 1020px;
+  top: 663px;
+  background: #F7C71B;
+  box-shadow: 3px 4px 4px #C1C1C1;
+  border-radius: 5px;
+}
+
+.rec-date-calendar-home {
+  position: absolute;
+  width: 360px;
+  height: 266px;
+  left: 1020px;
+  top: 816px;
+
+  background: #FFFFFF;
+  border: 0.5px solid #C1C1C1;
+  box-sizing: border-box;
+  box-shadow: 3px 4px 4px #C1C1C1;
+  border-radius: 5px;
+}
+
+.rec-upcoming-home {
+  position: absolute;
+  width: 360px;
+  height: 360px;
+  left: 1020px;
+  top: 1141px;
+
+  background: #FFFFFF;
+  border: 0.5px solid #C1C1C1;
+  box-sizing: border-box;
+  box-shadow: 3px 4px 4px #C1C1C1;
+  border-radius: 5px;
+}
+
+.text-upcoming-home {
+  position: absolute;
+  width: 165px;
+  height: 42px;
+  left: 100px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #F7C71B;
+}
+
+
+.rec-upcoming-list-home {
+  /* BG light */
+  position: absolute;
+  width: 280px;
+  height: 50px;
+  left: 40px;
+  right: 0px;
+  top: 100px;
+  bottom: 0px;
+
+
+  background: #FFFFFF;
+  box-shadow: 0px 4px 8px rgba(176, 190, 197, 0.24);
+  border-radius: 3px;
+}
+
+
+
+.section-help {
+  position: absolute;
+  width: 1540px;
+  height: 420px;
+  left: 0px;
+  top: 1550px;
+
+  background: #F3F3F3;
+}
+
+.line-section-help {
+  position: absolute;
+  width: 250px;
+  height: 0px;
+
+  border: 1px solid #DADADA;
+  transform: rotate(90deg);
+}
+
+.line-section-help-1 {
+  left: 403px;
+  top: 220px;
+}
+
+.line-section-help-2 {
+  left: 913px;
+  top: 220px;
+}
+
+.icon-feedback {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 110px;
+  top: 100px;
+  background: url(/img/feedback.svg);
+}
+
+.text-feedback {
+  position: absolute;
+  width: 157px;
+  height: 42px;
+  left: 209px;
+  top: 120px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #58595B;
+}
+
+.icon-navigation {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 613px;
+  top: 100px;
+}
+
+.text-navigation {
+  position: absolute;
+  width: 175px;
+  height: 42px;
+  left: 703px;
+  top: 120px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #58595B;
+}
+
+.icon-help {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 1126px;
+  top: 100px;
+}
+
+.text-help {
+  position: absolute;
+  width: 246px;
+  height: 42px;
+  left: 1206px;
+  top: 120px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #58595B;
+}
+
+
+/* footer */
+
+.footer-home {
+  position: absolute;
+  width: 1540px;
+  height: 152px;
+  left: 0px;
+  display: block;
+  top: 1970px;
+}
+
+.com-logo-footer {
+  position: absolute;
+  width: 302px;
+  height: 111px;
+  left: 155px;
+  top: 10px;
+
+  /* background: url(com_log.png); */
+}
+
+.contact {
+  position: absolute;
+  width: 145px;
+  height: 28px;
+  left: 577px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+.department {
+  position: absolute;
+  width: 336px;
+  height: 48px;
+  left: 577px;
+  top: 65px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+.icon-email {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 326px;
+  top: 22px;
+}
+
+ .icon-phone {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 577px;
+  top: 120px;
+
+  /* background: url(phone.png); */
+}
+
+.phone {
+  position: absolute;
+  width: 129px;
+  height: 16px;
+  left: 602px;
+  top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+ .icon-email-footer {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 742px;
+  top: 117px;
+
+  /* background: url(email.svg); */
+}
+
+.email-footer {
+  position: absolute;
+  width: 142px;
+  height: 16px;
+  left: 769px;
+  top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+.get-social {
+  position: absolute;
+  width: 134px;
+  height: 28px;
+  left: 1058px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+ .icon-face{
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  left: 1058px;
+  top: 65px;
+
+  /* background: url(facebook.png); */
+}
+
+.icon-twitter{
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 1118px;
+  top: 65px;
+
+  /* background: url(twitter.png); */
+}
+
+#rec-twitter{
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  left: 1118px;
+  top: 65px;
+
+  background: #55ACEE;
+  border-radius: 5px;
+}
+
+.icon-ig {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  left: 1178px;
+  top: 65px;
+
+  /* background: url(instagram.png); */
+}
+
+.icon-youtube{
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 1238px;
+  top: 70px;
+
+  /* background: url(youtube.png); */
+}
+
+
+
+
+/* menu */
+
+#menuToggle
+{
+  display: block;
+  position: relative;
+  width: 52px;
+  height: 52px;
+  left: 50px;
+  top: 15px;
+
+  z-index: 1;
+
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+
+#menuToggle input
+{
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;
+
+  cursor: pointer;
+
+  opacity: 0; /* hide this */
+  z-index: 2; /* and place it over the hamburger */
+
+  -webkit-touch-callout: none;
+}
+
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span
+{
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+
+  background: #cdcdcd;
+  border-radius: 3px;
+
+  z-index: 1;
+
+  transform-origin: 4px 0px;
+
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+/*
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #232323;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu
+{
+  position: absolute;
+  width: 400px;
+  height: 1024px;
+  margin: -100px 0 0 -70px;
+  padding: 50px;
+  padding-top: 125px;
+
+  background: #ffffff;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  padding: 10px 0;
+  font-size: 22px;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+
+.rec-menu-list {
+  background: #FFFFFF;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.rec-menu-account {
+  position: absolute;
+  width: 300px;
+  height: 89px;
+  left: 50px;
+  top: 130px;
+}
+
+.icon-account {
+  position: absolute;
+  left: 8.33%;
+  right: 8.33%;
+  top: 17.33%;
+}
+
+.name-menu-list {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 26px;
+
+  color: #58595B;
+}
+
+.account {
+  position: absolute;
+  width: 136px;
+  height: 52px;
+  left: 100px;
+  top: 20px;
+}
+
+.rec-menu-main {
+  position: absolute;
+  width: 300px;
+  height: 150px;
+  left: 50px;
+  top: 250px;
+}
+
+.rec-menu-home:hover {
+  position: absolute;
+  width: 301px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+
+  background: rgba(248, 148, 30, 0.3);
+}
+
+.icon-home {
+  position: absolute;
+
+  left: 38px;
+  top: 26px;
+  /*
+  left: 12.33%;
+  right: 8.33%;
+  top: 17.33%;
+  */
+}
+
+.text-1 {
+  position: absolute;
+  width: 136px;
+  height: 52px;
+  left: 100px;
+  top: 26px;
+}
+
+.rec-menu-calendar:hover {
+  position: absolute;
+  width: 301px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+
+  background: rgba(248, 148, 30, 0.3);
+}
+
+.icon-calendar {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+
+  left: 38px;
+  top: 85px;
+  /*
+  left: 12.33%;
+  right: 8.33%;
+  top: 55.33%;
+  */
+}
+
+.text-2 {
+  position: absolute;
+  width: 136px;
+  height: 52px;
+  left: 100px;
+  top: 83px;
+}
+
+.rec-menu-course {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 50px;
+  top: 430px;
+}
+
+.icon-todolist {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 12.33%;
+  right: 8.33%;
+  top: 8.33%;
+}
+
+.ellipse {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 11.66%;
+  right: 8.33%;
+  top: 27.33%;
+  border-radius: 80px;
+  background: #757575;
+}
+
+.text-in-ellipse {
+  position: absolute;
+  width: 16px;
+  height: 21px;
+  left: 7px;
+  top: 6px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+/* identical to box height */
+  color: #FFFFFF;
+}
+
+.rec-menu-option {
+  position: absolute;
+  width: 300px;
+  height: 150px;
+  left: 50px;
+  top: 770px;
+}
+
+.icon-setting {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 12.33%;
+  right: 8.33%;
+  top: 17.33%;
+}
+
+.icon-logout {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 12.33%;
+  right: 8.33%;
+  top: 53.33%;
+}

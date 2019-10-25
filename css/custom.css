@@ -1,0 +1,513 @@
+.HereO {
+  font-size: 150px;
+}
+
+/*test*/
+
+/*login*/
+.bg-white {
+  background-color: #ffffff !important;
+}
+
+.dropdown-toggle {
+  position: absolute;
+  width: 160px;
+  height: 40px;
+  left: 117px;
+  top: 11px;
+
+  background: #FFFFFF;
+  border: 0.5px solid #58595B;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+/*ภาษาของหน้า login */
+.dropdow-language {
+  position: absolute;
+  width: 133px;
+  height: 26px;
+  left: 132px;
+  top: 20px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 12px;
+
+  color: #58595B;
+}
+
+.help {
+  position: absolute;
+  width: 99px;
+  height: 23px;
+  left: 358px;
+  top: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 30px;
+
+  color: #58595B;
+}
+
+.cskmitl {
+  position: absolute;
+  width: 126px;
+  height: 30px;
+  left: 470px;
+  top: 21px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #58595B;
+}
+
+.youare {
+  position: absolute;
+  width: 244px;
+  height: 21px;
+  left: 1133px;
+  top: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 30px;
+/* identical to box height */
+  color: #58595B;
+}
+
+#rec {
+  position: absolute;
+  width: 1540px;
+  height: 814px;
+  left: 0px;
+  top: 62px;
+
+  background: linear-gradient(269.56deg, #DE5A10 0.21%, rgba(222, 90, 16, 0.95) 0.22%, rgba(247, 171, 27, 0.98) 86.76%);
+  opacity: 0.55;
+}
+
+ .CEO-5035 {
+  position: absolute;
+  width: 1540px;
+  height: 964px;
+  left: 0px;
+  top: 62px;
+
+  /* background: url(img/CEO_5035.jpg); */
+}
+
+.let {
+  position: absolute;
+  width: 500px;
+  height: 56px;
+  left: 35%;
+  top: 100px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+
+  color: #FFFFFF;
+}
+
+.footer {
+  position: absolute;
+  width: 1540px;
+  height: 152px;
+  left: 0px;
+  display: block;
+}
+
+.com-logo-footer {
+  position: absolute;
+  width: 302px;
+  height: 111px;
+  left: 155px;
+  top: 10px;
+
+  /* background: url(com_log.png); */
+}
+
+.contact {
+  position: absolute;
+  width: 145px;
+  height: 28px;
+  left: 577px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+.department {
+  position: absolute;
+  width: 336px;
+  height: 48px;
+  left: 577px;
+  top: 65px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+.icon-email {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 326px;
+  top: 22px;
+}
+
+ .icon-phone {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 577px;
+  top: 120px;
+
+  /* background: url(phone.png); */
+}
+
+.phone {
+  position: absolute;
+  width: 129px;
+  height: 16px;
+  left: 602px;
+  top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+ .icon-email-footer {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 742px;
+  top: 117px;
+
+  /* background: url(email.svg); */
+}
+
+.email-footer {
+  position: absolute;
+  width: 142px;
+  height: 16px;
+  left: 769px;
+  top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+.get-social {
+  position: absolute;
+  width: 134px;
+  height: 28px;
+  left: 1058px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+ .icon-face{
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  left: 1058px;
+  top: 65px;
+
+  /* background: url(facebook.png); */
+}
+
+.icon-twitter{
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 1118px;
+  top: 65px;
+
+  /* background: url(twitter.png); */
+}
+
+#rec-twitter{
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  left: 1118px;
+  top: 65px;
+
+  background: #55ACEE;
+  border-radius: 5px;
+}
+
+.icon-ig {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  left: 1178px;
+  top: 65px;
+
+  /* background: url(instagram.png); */
+}
+
+.icon-youtube{
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 1238px;
+  top: 70px;
+
+  /* background: url(youtube.png); */
+}
+
+.rec-login {
+  position: absolute;
+  width: 626px;
+  height: 548px;
+  left: 30%;
+  top: 267px;
+  /* border: 1px solid; */
+  padding: 10px;
+  box-shadow: 1.5px 1.5px #D1D2D5;
+  background: #FFFFFF;
+  border-radius: 15px;
+}
+
+.eclipse{
+  position: absolute;
+  width: 167px;
+  height: 167px;
+  left: 686px;
+  top: 183px;
+  padding: 10px;
+  box-shadow: 1.5px 1.5px #D1D2D5;
+  background: #FFFFFF;
+  border-radius: 80px;
+}
+
+ .cs-logo {
+  position: absolute;
+  width: 172px;
+  height: 172px;
+  left: 685px;
+  top: 181px;
+
+  /* background: url(cs-logo.png); */
+}
+
+ .google-authen {
+  position: absolute;
+  width: 307px;
+  height: 67px;
+  left: 620px;
+  top: 380px;
+
+  /* background: url(google-authen.png); */
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.line-left {
+  position: absolute;
+  width: 100px;
+  height: 0px;
+  left: 626px;
+  top: 479px;
+
+  border: 1px solid #C1C1C1;
+}
+
+.or {
+  position: absolute;
+  width: 22px;
+  height: 28px;
+  left: 765px;
+  top: 465px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(142, 142, 142, 0.8);
+}
+
+.line-right {
+  position: absolute;
+  width: 100px;
+  height: 0px;
+  left: 821px;
+  top: 479px;
+
+  border: 1px solid #C1C1C1;
+}
+
+.username-box {
+  position: absolute;
+  width: 290px;
+  height: 50px;
+  left: 626px;
+  top: 516px;
+
+  background: #FFFFFF;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.password-box {
+  position: absolute;
+  width: 290px;
+  height: 50px;
+  left: 626px;
+  top: 586px;
+
+  background: #FFFFFF;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.check-remember {
+  position: absolute;
+  width: 134px;
+  height: 16px;
+  left: 590px;
+  top: 660px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+.remember {
+  position: absolute;
+  width: 134px;
+  height: 16px;
+  left: 670px;
+  top: 660px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #58595B;
+}
+
+.submit {
+  position: absolute;
+  width: 120px;
+  height: 50px;
+  left: 710px;
+  top: 689px;
+
+  background: #F8941E;
+  border-radius: 5px;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.forget {
+  position: absolute;
+width: 117px;
+height: 16px;
+left: 712px;
+top: 758px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #DE5A10;
+}
+
+.dropdown-menu {
+  left: 130px;
+  top: 50px;
+}
+
+/* .navbar {
+  width: 1540px;
+  background: red;
+} */
+
+/* @media screen and (max-width: 480px) {
+  .navbar{
+    width: 400px;
+    background: green;
+  }
+} */
+
+.wrapper {
+   display: block;
+   min-height: 100%; /* real browsers */
+   height: auto !important; /* real browsers */
+   height: 100%; /* IE6 bug */
+   margin-bottom: 381px; /* กำหนด margin-bottom ให้ติดลบเท่ากับความสูงของ footer */
+}

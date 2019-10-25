@@ -1,0 +1,136 @@
+.rec-in-course {
+  position: absolute;
+  width: 780px;
+  height: 560px;
+  left: 600px;
+  top: 500px;
+}
+
+.rec-main-in-course {
+  position: absolute;
+  width: 1540px;
+  height: 1700px;
+  left: 0px;
+  top: 61px;
+
+  background: #F3F3F3;
+}
+
+.button-leave {
+  position: absolute;
+  width: 360px;
+  height: 68px;
+  left: 120px;
+  top: 992px;
+
+  background: #E1E1E1;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.text-leave {
+  position: absolute;
+  width: 158.4px;
+  height: 28px;
+  left: 110px;
+  top: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #58595B;
+}
+
+.rec-mem-in-course {
+  position: absolute;
+  width: 780px;
+  height: 600px;
+  left: 600px;
+  top: 1100px;
+}
+
+.text-topic-classmates {
+  position: absolute;
+  width: 417px;
+  height: 97px;
+  left: 80px;
+  top: 80px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+
+  color: #58595B;
+}
+
+.line-classmates {
+  position: absolute;
+  width: 660px;
+  height: 0px;
+  left: 75px;
+  top: 115px;
+
+  border: 1px solid #C1C1C1;
+}
+
+.footer-in-course {
+  position: absolute;
+  width: 1540px;
+  height: 152px;
+  left: 0px;
+  display: block;
+  top: 1750px;
+}
+
+.about {
+  position: absolute;
+  width: 417px;
+  height: 97px;
+  left: 543px;
+  top: 70px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+
+  color: #58595B;
+}
+
+.class {
+  position: absolute;
+  width: 417px;
+  height: 97px;
+  left: 723px;
+  top: 70px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+
+  color: #58595B;
+}
+
+.grade {
+  position: absolute;
+  width: 417px;
+  height: 97px;
+  left: 903px;
+  top: 70px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+
+  color: #58595B;
+}

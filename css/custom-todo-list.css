@@ -1,0 +1,155 @@
+.rec-main {
+  position: absolute;
+  width: 1540px;
+  height: 1199px;
+  left: 0px;
+  top: 61px;
+
+  background: #F3F3F3;
+}
+
+.rec-main-topic {
+  position: absolute;
+  width: 1540px;
+  height: 111.21px;
+  left: 0px;
+  top: 68px;
+
+  background: #FFFFFF;
+}
+
+.text-todo-1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.text-todo-2 {
+  position: absolute;
+  left: 30px;
+  top: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+  /* identical to box height */
+
+  color: #58595B;
+}
+
+.text-todo-3 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #58595B;
+}
+
+.text-main-todo{
+  position: absolute;
+  width: 72px;
+  height: 27px;
+  left: 654px;
+  top: 65px;
+}
+
+.text-main-done{
+  position: absolute;
+  width: 72px;
+  height: 27px;
+  left: 794px;
+  top: 65px;
+}
+
+.box {
+  background: #FFFFFF;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.box-main {
+  position: absolute;
+  width: 1203px;
+  height: 900px;
+  left: 169px;
+  top: 250px;
+}
+
+.box-all-class {
+  position: absolute;
+  width: 213px;
+  height: 46px;
+  left: 60px;
+  top: 60px;
+
+  border: 1px solid #C1C1C1;
+  box-sizing: border-box;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.box-todo {
+  position: absolute;
+  width: 960px;
+  height: 120px;
+  left: 120px;
+  top: 180px;
+
+  border: 1px solid #C1C1C1;
+  box-sizing: border-box;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.text-all-class {
+  position: absolute;
+  left: 30px;
+  top: 15px;
+}
+
+.text-topic-todo {
+  position: absolute;
+  width: 214px;
+  height: 30px;
+  left: 53px;
+  top: 26px;
+
+  color: #58595B;
+}
+
+.text-detail {
+  position: absolute;
+  width: 130px;
+  height: 21px;
+  left: 63px;
+  top: 61px;
+
+  color: #58595B;
+}
+
+.text-detail-date {
+  position: absolute;
+  width: 300px;
+  height: 21px;
+  left: 203px;
+  top: 61px;
+
+  color: #B6B6B6;
+}
+
+.footer-todo {
+  position: absolute;
+  width: 1540px;
+  height: 152px;
+  left: 0px;
+  display: block;
+  top:1260px;
+}
