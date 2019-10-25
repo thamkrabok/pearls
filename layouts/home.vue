@@ -208,36 +208,34 @@
       <!-- footer -->
       <footer class="footer-home bg-white">
 
-        <img src="@/img/com_logo.png" class="com-logo-footer">
+        <img src="@/img/com_logo.png" class="cs-logo-footer">
 
-        <h1 class="contact">
+        <h1 class="contact-text-footer">
           CONTACT US
         </h1>
-        <h1 class="department">
+        <h1 class="address-text-footer">
           Department of Computer Science, Faculty of Science, King Mongkut’s Institute of Technology Ladkrabang Chalongkrung Rd. Ladkrabang District Bangkok 10520
         </h1>
 
-        <img src="@/img/phone.png" class="icon-phone">
-        <h1 class="phone">
+        <img src="@/img/phone.png" class="icon-phone-footer">
+        <h1 class="phone-number-text">
           Phone : 02-329-8400
         </h1>
 
         <img src="@/img/email.svg" class="icon-email-footer">
-        <h1 class="email-footer">
+        <h1 class="email-text-footer">
           E-mail : cs@kmitl.ac.th
         </h1>
 
-        <h1 class="get-social">
+        <h1 class="get-social-text-footer">
           GET SOCIAL
         </h1>
-        <img src="@/img/facebook.png" class="icon-face">
-        <img src="@/img/twitter.png" class="icon-twitter" id="rec-twitter">
-        <img src="@/img/ig.png" class="icon-ig">
-        <img src="@/img/youtube.png" class="icon-youtube">
+        <img src="@/img/facebook.png" class="icon-facebook-footer">
+        <img src="@/img/twitter.png" class="icon-twitter-footer" id="rec-twitter-footer">
+        <img src="@/img/ig.png" class="icon-ig-footer">
+        <img src="@/img/youtube.png" class="icon-youtube-footer">
 
-      </footer>
-
-
+        </footer>
     </body>
 </template>
 

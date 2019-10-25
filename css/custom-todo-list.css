@@ -1,4 +1,5 @@
-.rec-main {
+/* พื้นหลังสี่เหลี่ยมเทา */
+.main-background {
   position: absolute;
   width: 1540px;
   height: 1199px;
@@ -8,7 +9,8 @@
   background: #F3F3F3;
 }
 
-.rec-main-topic {
+/* แถบสี่เหลี่ยมขาวครอบเมนู */
+.menu-background {
   position: absolute;
   width: 1540px;
   height: 111.21px;
@@ -18,7 +20,8 @@
   background: #FFFFFF;
 }
 
-.text-todo-1 {
+/* ขนาดฟ้อน 24px */
+.font-size-1 {
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
@@ -29,7 +32,8 @@
   color: #000000;
 }
 
-.text-todo-2 {
+/* ขนาดฟ้อน 22px  */
+.font-size-2 {
   position: absolute;
   left: 30px;
   top: 15px;
@@ -44,7 +48,8 @@
   color: #58595B;
 }
 
-.text-todo-3 {
+/* ขนาดฟ้อน 18px */
+.font-size-3 {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
@@ -55,7 +60,8 @@
   color: #58595B;
 }
 
-.text-main-todo{
+/* ตำแหน่ง todo */
+.todo-position {
   position: absolute;
   width: 72px;
   height: 27px;
@@ -63,7 +69,8 @@
   top: 65px;
 }
 
-.text-main-done{
+/* ตำแหน่ง position */
+.done-position {
   position: absolute;
   width: 72px;
   height: 27px;
@@ -71,12 +78,14 @@
   top: 65px;
 }
 
-.box {
+/* แต่งสีกล่องสี่เหลี่ยม */
+.box-style {
   background: #FFFFFF;
   box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.box-main {
+/* กล่องพื้นหลังสี่เหลี่ยมสำหรับคลุม dropdown, to-do list*/
+.main-todo-box {
   position: absolute;
   width: 1203px;
   height: 900px;
@@ -84,7 +93,8 @@
   top: 250px;
 }
 
-.box-all-class {
+/* กล่อง dropdown เลือก class */
+.dropdown-class-box {
   position: absolute;
   width: 213px;
   height: 46px;
@@ -97,7 +107,8 @@
   border-radius: 5px;
 }
 
-.box-todo {
+/* กล่องครอบ to-do list อย่างเดียว */
+.sub-todo-box {
   position: absolute;
   width: 960px;
   height: 120px;
@@ -109,13 +120,15 @@
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+/* ยังไม่ได้ใช้ */
 .text-all-class {
   position: absolute;
   left: 30px;
   top: 15px;
 }
 
-.text-topic-todo {
+/* จัดตำแหน่งข้อความ : หัวข้อที่ต้องทำ */
+.todo-topic-position {
   position: absolute;
   width: 214px;
   height: 30px;
@@ -125,7 +138,8 @@
   color: #58595B;
 }
 
-.text-detail {
+/* จัดตำแหน่งข้อความ : ชื่อวิชา */
+.todo-description-position {
   position: absolute;
   width: 130px;
   height: 21px;
@@ -135,7 +149,8 @@
   color: #58595B;
 }
 
-.text-detail-date {
+/* จัดตำแหน่งข้อความ : กำหนดส่ง */
+.todo-date-position {
   position: absolute;
   width: 300px;
   height: 21px;
@@ -145,7 +160,8 @@
   color: #B6B6B6;
 }
 
-.footer-todo {
+/* จัดตำแหน่ง footer : to-do list */
+.todo-footer-position {
   position: absolute;
   width: 1540px;
   height: 152px;

@@ -25,14 +25,14 @@
         -->
         <ul id="menu">
           <a href="./profile">
-            <div class="rec-menu-list rec-menu-account">
+            <div class="menu-background rec-menu-account">
               <img src="@/img/icon-account.svg" class="icon-account">
               <h1 class="name-menu-list account">Piyawat Sawong</h1>
             </div>
           </a>
 
           <a href="#">
-            <div class="rec-menu-list rec-menu-main">
+            <div class="menu-background main-background">
               <li>
                 <a href="./home">
                   <img src="@/img/icon-home.svg" class="icon-home">
@@ -47,7 +47,7 @@
           </a>
 
           <a href="./todo-list">
-            <div class="rec-menu-list rec-menu-course">
+            <div class="menu-background rec-menu-course">
               <li>
                 <img src="@/img/icon-todolist.svg" class="icon-todolist">
                 <h1 class="name-menu-list text-1">To-do list</h1>
@@ -64,7 +64,7 @@
           </a>
 
           <a href="#">
-            <div class="rec-menu-list rec-menu-option">
+            <div class="menu-background rec-menu-option">
               <li>
                 <img src="@/img/icon-setting.svg" class="icon-setting">
                 <h1 class="name-menu-list text-1">Setting</h1>
@@ -108,20 +108,20 @@
       <div class="rec-main">
 
         <div class="rec-main-topic">
-        <a href="./todo-list"><h1 class="text-todo-1 text-main-todo">To-do</h1></a>
-        <a href="./done"><h1 class="text-todo-1 text-main-done">Done</h1></a>
+        <a href="./todo-list"><h1 class="font-size-1 todo-position">To-do</h1></a>
+        <a href="./done"><h1 class="font-size-1 done-position">Done</h1></a>
         </div>
 
-        <div class="box box-main">
+        <div class="box-style main-todo-box">
 
-          <a class="box box-all-class dropdown-toggle dropdow-language" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a class="box-style dropdown-class-box dropdown-toggle dropdow-language" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             All classes
           </a>
 
-          <div class="box box-todo">
-            <h1 class="text-todo-1 text-topic-todo">Architecture style</h1>
-            <h3 class="text-todo-3 text-detail">Software design</h3>
-            <h3 class="text-todo-3 text-detail-date">- Due Aug 16, 2018, 11:59 PM</h3>
+          <div class="box-style sub-todo-box">
+            <h1 class="font-size-1 todo-topic-position">Architecture style</h1>
+            <h3 class="font-size-3 todo-description-position">Software design</h3>
+            <h3 class="font-size-3 todo-date-position">- Due Aug 16, 2018, 11:59 PM</h3>
           </div>
 
         </div>
@@ -129,39 +129,36 @@
       </div>
 
       <!-- footer -->
+      <footer class="todo-footer-position bg-white">
 
-        <footer class="footer-todo bg-white">
+        <img src="@/img/com_logo.png" class="cs-logo-footer">
 
-            <img src="@/img/com_logo.png" class="com-logo-footer">
+        <h1 class="contact-text-footer">
+          CONTACT US
+        </h1>
+        <h1 class="address-text-footer">
+          Department of Computer Science, Faculty of Science, King Mongkut’s Institute of Technology Ladkrabang Chalongkrung Rd. Ladkrabang District Bangkok 10520
+        </h1>
 
-            <h1 class="contact">
-              CONTACT US
-            </h1>
-            <h1 class="department">
-              Department of Computer Science, Faculty of Science, King Mongkut’s Institute of Technology Ladkrabang Chalongkrung Rd. Ladkrabang District Bangkok 10520
-            </h1>
+        <img src="@/img/phone.png" class="icon-phone-footer">
+        <h1 class="phone-number-text">
+          Phone : 02-329-8400
+        </h1>
 
-            <img src="@/img/phone.png" class="icon-phone">
-            <h1 class="phone">
-              Phone : 02-329-8400
-            </h1>
+        <img src="@/img/email.svg" class="icon-email-footer">
+        <h1 class="email-text-footer">
+          E-mail : cs@kmitl.ac.th
+        </h1>
 
-            <img src="@/img/email.svg" class="icon-email-footer">
-            <h1 class="email-footer">
-              E-mail : cs@kmitl.ac.th
-            </h1>
-
-            <h1 class="get-social">
-              GET SOCIAL
-            </h1>
-            <img src="@/img/facebook.png" class="icon-face">
-            <img src="@/img/twitter.png" class="icon-twitter" id="rec-twitter">
-          <img src="@/img/ig.png" class="icon-ig">
-          <img src="@/img/youtube.png" class="icon-youtube">
+        <h1 class="get-social-text-footer">
+          GET SOCIAL
+        </h1>
+        <img src="@/img/facebook.png" class="icon-facebook-footer">
+        <img src="@/img/twitter.png" class="icon-twitter-footer" id="rec-twitter-footer">
+        <img src="@/img/ig.png" class="icon-ig-footer">
+        <img src="@/img/youtube.png" class="icon-youtube-footer">
 
         </footer>
-
-
   </body>
 </template>
 
